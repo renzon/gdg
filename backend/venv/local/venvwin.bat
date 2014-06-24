@@ -1,0 +1,1 @@
+/home/renzo/PycharmProjects/gdg/backend/venv/venvwin.bat
