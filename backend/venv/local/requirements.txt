@@ -1,1 +1,1 @@
-tekton==2.4
+/home/renzo/PycharmProjects/gdg/backend/venv/requirements.txt
